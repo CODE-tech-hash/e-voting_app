@@ -1,7 +1,5 @@
 # e-voting_app
-Here's a template for a **README.md** file for your **e-Voting Application**:
 
----
 
 # e-Voting Application
 
@@ -28,7 +26,6 @@ The e-Voting Application is a secure and user-friendly Android application desig
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/e-voting-app.git
    ```
 2. **Open in Android Studio**:
    - Open Android Studio and choose **"Open an Existing Project"**.
